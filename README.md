@@ -3,7 +3,6 @@
 
 <hr>
 
-Biomédica de formação, em 2021 comecei a transição para a área de desenvolvimento, onde me apaixonei pelo Front End. 
 
 
 ![Bianca Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=biasantos94&show_icons=true&theme=dracula)
